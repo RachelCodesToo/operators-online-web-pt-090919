@@ -1,5 +1,5 @@
 def unsafe?
-  if <60
+  if < "60"
     "true"
   else
     "false"
